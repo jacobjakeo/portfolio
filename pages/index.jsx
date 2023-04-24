@@ -15,14 +15,14 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Hello, I am Jakub Oksa
+              Hey! I'm Jakub Oksa.
             </h1>
             <p className="description">
-              I am a UpLeveled Student and a soon-to-be Fullstack Developer!
+              I am an UpLeveled Student and a soon-to-be Fullstack Developer!
             </p>
 
             <Link href="/contact" className="cta">
-              Contact Jakub
+              Hit me Up!
             </Link>
           </div>
 
