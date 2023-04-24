@@ -29,7 +29,7 @@ a[href] {
     letter-spacing: 2px;
     font-weight: 800;
     text-decoration: none;
-    color: #dc8699;
+    color: #88b04b;
   }
 
   .nav-links {
@@ -47,6 +47,7 @@ a[href] {
 
       &.active {
         font-weight: 700;
+        color: #88b04b;
         &:after {
           content: '';
           position: absolute;
